@@ -1,2 +1,2 @@
 # Webdevelopment-
-we are creating web designs using HTML CSS 
+Full stack developer,Right now gripping on Mern Stack
